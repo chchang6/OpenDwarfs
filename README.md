@@ -13,7 +13,9 @@ Benchmark status
 ----------------
 
 Stable: `gem`
+
 Beta: `bfs cfd crc fft kmeans lud nw spmv srad swat bwa_hmm nqueens`
+
 Alpha: `tdm`
 
 Requirements
